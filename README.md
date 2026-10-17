@@ -26,14 +26,17 @@ An offline-first personal AI assistant application that performs on-device LLM i
   - Optimized memory footprint and asynchronous processing for background tasks.
   - Modern UI built entirely with Jetpack Compose and Material 3 design system.
 
-<!-- Uygulama Ekran Görüntüleri -->
-<p align="center">
-  <img src="2_ADIMDA_KOPYALADIGINIZ_RESIM_LINKI_1" width="260" alt="SeniorAI App Screenshot 1"/>
-  &nbsp;&nbsp;
-  <img src="2_ADIMDA_KOPYALADIGINIZ_RESIM_LINKI_2" width="260" alt="SeniorAI App Screenshot 2"/>
-</p>
+<img width="704" height="1524" alt="Image" src="https://github.com/user-attachments/assets/a9e36de9-4003-471e-9356-11f037015ad9" />
+<img width="704" height="1524" alt="Image" src="https://github.com/user-attachments/assets/d25a312b-768c-4676-806d-9c9990be9647" />
+<img width="704" height="1524" alt="Image" src="https://github.com/user-attachments/assets/7e74e7ae-45c9-4d47-9c26-4556f888c44f" />
+<img width="704" height="1524" alt="Image" src="https://github.com/user-attachments/assets/8a37b85e-e688-4611-8cb9-a6c5d80aa682" />
+<img width="704" height="1524" alt="Image" src="https://github.com/user-attachments/assets/10f34d72-89ae-4cde-b6f6-2ba78441bd75" />
+<img width="1264" height="2736" alt="Image" src="https://github.com/user-attachments/assets/dd327bea-1629-4eb5-87b8-b11e023d6fbb" />
+<img width="1264" height="2736" alt="Image" 
 
-🔗 **Links:** [GitHub Repository](SENIORAI_REPO_LINKINIZ) | [Download Test APK](APK_INDIRME_LINKINIZ)
+🔗 **Links:** 
+[GitHub Repository](SENIORAI_REPO_LINKINIZ) 
+[Download Test APK](APK_INDIRME_LINKINIZ)
 
 ---
 
