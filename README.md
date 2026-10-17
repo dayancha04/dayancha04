@@ -35,14 +35,16 @@ An offline-first personal AI assistant application that performs on-device LLM i
 <img width="1264" height="2736" alt="Image" 
 
 🔗 **Links:** 
-[GitHub Repository](SENIORAI_REPO_LINKINIZ) 
-[Download Test APK](APK_INDIRME_LINKINIZ)
+[GitHub Repository]
+README.md
+[Download Test APK]
+https://play.google.com/store/apps/details?id=com.seniorai.atayev
 
 ---
 
 ## 💼 Freelance Experience (Upwork)
 
-**Freelance Android Developer** | *Upwork* *(2025 - Present)*
+**Freelance Android Developer** | *Upwork* *(2024 - 2025)*
 - Developed and delivered end-to-end native Android applications for global clients using **Kotlin** and **Jetpack Compose**.
 - Applied **Clean Architecture** and **MVVM/MVI** design patterns to ensure high maintainability and code quality.
 - Integrated third-party REST APIs, local storage (Room), and on-device Machine Learning models.
@@ -52,6 +54,8 @@ An offline-first personal AI assistant application that performs on-device LLM i
 
 ## 📫 Connect with Me
 
-- **Email:** epostaniz@example.com
-- **LinkedIn:** [linkedin.com/in/kullaniciadiniz](https://linkedin.com)
-- **Play Store:** [Google Play Developer Sayfanız veya Uygulama Linki](#)
+- **Email:**
+- atayevwork@gmail.com
+- **Instagram:** https://www.instagram.com/sr_da4anch?rpxt=MW52dGtlejFoYzg5ZA==
+- **Play Store:**
+https://play.google.com/console/u/1/developers/5741005924390558944/app-list?pli=1
